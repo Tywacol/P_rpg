@@ -2,6 +2,7 @@
 
 // ADDING SOME COMMENTS TO TEST GIT HERE
 // WORKING FROM HERE TOO
+// LAST STEP OF TESTs
 /*int main()
 {
     sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
